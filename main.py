@@ -1,4 +1,4 @@
-# next wip creator
+# next wip 
 import random
 
 mediumType = ['script',
