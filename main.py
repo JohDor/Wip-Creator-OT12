@@ -7,7 +7,7 @@ mediumType = ['script',
               'poem']
 genresMovies = ['romance', 'horror', 'science fiction', 'action', 'adventure', 'drama']
 songs = ['365', 'one way', 'let me in', 'around you', 'where you at?', 'Sonatine', 'Universe', 'Fall Again',
-         'Twilight', 'Love Letter', 'Crystal Ballad', '51db(Rain 51db)']
+         'Twilight', 'Love Letter', 'Crystal Ballad', '51db(Rain 51db)', 'A Different Night']
 locations = ['South Korea', 'France', 'Japan', 'Iceland', 'UK', 'USA', 'Taiwan',
              'Hungary', 'Hong Kong', 'New Zealand', 'Czech Republic']
 generate = True
